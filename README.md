@@ -12,3 +12,7 @@ Sendo 06 o mínimo e 15 o número máximo de números.
 5. Gravando dados de Preferência
 6. Apply e Let - Finalização do Projeto
 
+### Praticando o GitHub
+1. Criado o repositório utilizando a IDE AndroidStudio
+2. Criado o primeiro Branch MelhoriaContinuaRefatorando e utilizando o console da IDE com comando: git checkout MelhoriaContinuaRefatorando
+as novas atualizações do projeto foram para esse branch.
