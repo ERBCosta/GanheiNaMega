@@ -40,9 +40,9 @@
         android:layout_marginTop="32dp"
         android:textSize="20sp"
         android:layout_marginEnd="20dp"
-        android:layout_marginLeft="20dp"
+        android:layout_marginLeft="30dp"
         android:textAlignment="center"
-        tools:text="Esse texto não aparece no app"
+        tools:text="resultado do jogo"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/edit_number" />
@@ -53,6 +53,20 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
         android:text="@string/number_generator"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginEnd="20dp"
+        android:textAlignment="center"
+        android:text="@string/termo"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/txt_result" />

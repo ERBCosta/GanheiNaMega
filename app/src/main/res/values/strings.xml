@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">GanheiNaMega</string>
+    <string name="app_name">Ganhei Na Mega</string>
     <string name="title">Boa Sorte!</string>
     <string name="number_hint">Digite de 6 a 15 números</string>
     <string name="number_generator">Gerar Jogo</string>
+    <string name="termo">Esse é um gerador de jogo aleatório criado para fins de estudos.\nOs números são criados randomicamente sem nenhuma lógica de fechamento. Gerados de forma aleatória.</string>
 </resources>
