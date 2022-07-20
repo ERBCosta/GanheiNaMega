@@ -9,7 +9,7 @@ Sendo 06 o mínimo e 15 o número máximo de números.
 2. Escutando os eventos de touch
 3. Criando as regras e lógicas de programação
 4. Melhoria contínua(layout e código refatoração) - clean code e identação 
-5. Gravando dados de Preferência (Banco de dados local)
+5. Gravando dados de Preferência (Dados únicos de preferência)
 6. Apply e Let - Finalização do Projeto
 
 ### Praticando o GitHub
